@@ -163,13 +163,7 @@ AegisBrain/
 
 ---
 
-## 👥 Team
 
-| Name | Role |
-|---|---|
-| **Gatoj** | Developer |
-
----
 
 ## 📜 License
 
